@@ -1,0 +1,19 @@
+{
+  "name": "comunicacionstore",
+  "version": "1.0.0",
+  "description": "mi primer proyecto html",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andresmartinesz/16100230-ComunicacionStore.git"
+  },
+  "author": "Andres Martinez Rodriguez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andresmartinesz/16100230-ComunicacionStore/issues"
+  },
+  "homepage": "https://github.com/andresmartinesz/16100230-ComunicacionStore#readme"
+}
