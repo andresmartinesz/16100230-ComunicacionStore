@@ -1,13 +1,35 @@
 .btn-ver{
     width: 100%;
 }
+.banner{
+    padding-top: 56px;
+    margin-block-end: 20px;
+}
 .jumbotron{
     background-color: rgb(189, 50, 7);
+    background-image: url(../img/fondouno.jpg);
+    height: 50vh;
+    background-size: cover;
+    background-position: top center;
     color: white;
+    text-align: center;
+    text-shadow: 1px 2px rgb(160, 160, 160);
 }
+
+.jumbotron-conmutadores{
+    background-color: rgb(189, 50, 7);
+    background-image: url(../img/fondoconmutadores.jpg);
+    height: 50vh;
+    background-size: cover;
+    background-position: top center;
+    color: white;
+    text-align: center;
+    text-shadow: 1px 2px rgb(160, 160, 160);
+}
+
 footer{
         padding: 10px 20px 0px 20px;
-        background-color: rgb(189, 50, 7);
+        background-color: rgb(52, 49, 48);
         color: white;
         margin-bottom: 0px;
         margin-top: 15px;
